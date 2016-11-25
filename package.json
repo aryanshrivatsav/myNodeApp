@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aryanshrivatsav/myNodeApp/issues"
   },
-  "homepage": "https://github.com/aryanshrivatsav/myNodeApp#readme"
+  "homepage": "https://github.com/aryanshrivatsav/myNodeApp#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
 }
